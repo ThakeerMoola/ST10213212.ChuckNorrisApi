@@ -1,5 +1,7 @@
 Chuck Norris Jokes App
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 This Android application fetches random Chuck Norris jokes from an external API and displays them in the app. The user can load new jokes by tapping the "Next" button.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Features
 	Fetches random Chuck Norris jokes from the Chuck Norris API.
 	Displays the joke along with a Chuck Norris image.
@@ -9,7 +11,9 @@ Prerequisites
 	Android Studio (latest version recommended)
 	Android SDK
 	Internet connection (required to fetch jokes from the API)
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 Installation
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 1.	Clone the repository:
 bash
 Copy code
