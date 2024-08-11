@@ -13,7 +13,7 @@ Installation
 1.	Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/chuck-norris-jokes-app.git
+git clone https://github.com/ThakeerMoola/ST10213212.ChuckNorrisApi
 2.	Open the project in Android Studio:
 o	Launch Android Studio.
 o	Click on "Open an existing project."
